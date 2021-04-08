@@ -9,10 +9,10 @@
     },
     {
       "id": 2,
-      "message": "Workstation 007 not posting",
-      "attention": true,
-      "date": "03-02-2019",
-      "tech": "John Doe"
+      "message": "Solved Issue",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "date": "2021-04-08T05:10:05.113Z"
     },
     {
       "id": 3,
@@ -27,11 +27,6 @@
       "id": 1,
       "firstName": "John",
       "lastName": "Doe"
-    },
-    {
-      "id": 2,
-      "firstName": "Sam",
-      "lastName": "Smith"
     },
     {
       "id": 3,
